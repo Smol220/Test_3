@@ -1,4 +1,8 @@
-h5, div, p, span {
+h5, p, span {
     background-color: orange;
     padding: 10px;
+}
+
+div#sm-wrapper{
+    background-color: white;
 }
